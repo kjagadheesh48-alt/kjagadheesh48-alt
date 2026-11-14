@@ -69,6 +69,6 @@ More work lives in my [repositories](https://github.com/kjagadheesh48-alt?tab=re
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
+<img src="footer.svg" alt="Thanks for visiting" width="100%"/>
 
 </div>
