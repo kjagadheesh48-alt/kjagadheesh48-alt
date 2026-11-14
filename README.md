@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="C Jagadheesh Kumar - Software Developer | Generative AI | Agentic AI | UI/UX" width="100%"/>
+<img src="hero.svg" alt="C Jagadheesh Kumar - Software Developer | Generative AI | Agentic AI | UI/UX" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&logo=vercel&logoColor=F8F0F3)](https://jagadheesh-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/c-jagadheesh-kumar-b976a9376)
