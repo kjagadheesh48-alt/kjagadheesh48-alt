@@ -62,8 +62,6 @@ More work lives in my [repositories](https://github.com/kjagadheesh48-alt?tab=re
 
 <img src="https://ghchart.rshah.org/701A3D/kjagadheesh48-alt" alt="GitHub contribution chart for kjagadheesh48-alt" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kjagadheesh48-alt&show_icons=true&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjagadheesh48-alt&layout=compact&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3" alt="Top languages" height="165"/>
 
 </div>
 
